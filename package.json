@@ -2,6 +2,7 @@
   "name": "webext-shield-study",
   "version": "1.0.0",
   "author": "Unknown",
+  "hasEmbeddedWebExtension": true,
   "bugs": {
     "url": "https://github.com/mozilla/shield-study-webext-study/issues"
   },
